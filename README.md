@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section") [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagarkhandve%2Fbackup-config-asa.git&count_bg=%2308DD09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 # <span style="color:green">**Backup and Restore Configuration Files On Cisco ASA Firewall.**</span>
 #### <span style="color:white">**You can use a script to back up and restore the configuration files on your ASA, including all extensions that you import via the import webvpn CLI, the CSD configuration XML files, and the DAP configuration XML file. For security reasons, we do not recommend that you perform automated backups of digital keys and certificates or the local CA key.**</span>
