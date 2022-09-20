@@ -36,5 +36,4 @@ $ sudo ./backup-asa.sh -option option_value
 ```
 #### <span style="color:white">**If you don't enter an option, the script will prompt for it prior to backup. Make sure that you can SSH to the ASA.**</span>
 
-## License
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section") 
